@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "shop_name": "Kumar Sarees T.Nagar",
+    "phone": "9876543210",
+    "plan": 1000,
+    "status": "Paid",
+    "wallet": 350,
+    "posts_per_day": 2,
+    "created": "31-10-2026"
+  }
+]
